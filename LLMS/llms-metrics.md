@@ -8,9 +8,10 @@ This document aims to cover several popularly used evaluation metrics and method
 
 ### Levenshtein Similarity Ratio
 
-### BLEU:
+### BLEU: Bilingual Evaluation Understudy
 
-### ROUGE:
+### ROUGE: Recall-Oriented Understudy for Gisting Evaluation
+
 
 ### Semantic Similarity:
 
